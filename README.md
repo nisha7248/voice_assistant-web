@@ -1,1 +1,2 @@
 # voice_assistant-web
+Our Voice Assistant project is an AI-powered application designed to understand and respond to voice commands. It performs tasks like answering questions, controlling smart devices, setting reminders, and providing real-time information. Built using Python and speech recognition libraries, it ensures smooth natural language interaction. The assistant is customizable for specific use cases like education, health, or productivity. It enhances user convenience by enabling hands-free operation and intelligent voice-driven support.
